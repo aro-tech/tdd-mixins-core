@@ -6,8 +6,34 @@
 	<groupId>com.github.aro-tech</groupId>
 	<artifactId>tdd-mixins-core</artifactId>
 	<version>0.5.0</version>
-	<name>tdd-mixins-core</name>
-	<url>http://maven.apache.org</url>
+	<packaging>jar</packaging>
+	<name>${project.groupId}:${project.artifactId}</name>
+	<description>Java-8 mixins for convenient use of popular testing libraries in test fixtures.</description>
+	<url>https://github.com/aro-tech/tdd-mixins-core</url>
+	<licenses>
+		<license>
+			<name>Mozilla Public License 2.0</name>
+			<url>https://www.mozilla.org/en-US/MPL/2.0/</url>
+		</license>
+	</licenses>
+	<developers>
+		<developer>
+			<name>aro-tech</name>
+			<email>aro_tech@gmx.com</email>
+			<organization>aro-tech</organization>
+			<organizationUrl>https://github.com/aro-tech</organizationUrl>
+		</developer>
+	</developers>
+	<scm>
+		<connection>scm:git:git@github.com:aro-tech/tdd-mixins-core.git</connection>
+		<developerConnection>scm:git:git@github.com:aro-tech/tdd-mixins-core.git</developerConnection>
+		<url>git@github.com:aro-tech/tdd-mixins-core.git</url>
+	</scm>
+	<issueManagement>
+		<system>github</system>
+		<url>https://github.com/aro-tech/tdd-mixins-core/issues</url>
+	</issueManagement>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
