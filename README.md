@@ -8,11 +8,11 @@ Requires Java 8 (or higher)
 
 ##Latest release
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.aro-tech/tdd-mixins-core/badge.svg)](http://search.maven.org/#artifactdetails|com.github.aro-tech|tdd-mixins-core|0.6.0|jar)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.aro-tech/tdd-mixins-core/badge.svg)](http://search.maven.org/#artifactdetails|com.github.aro-tech|tdd-mixins-core|0.7.0|jar)
 
-v0.6.0: [Release notes on github] (https://github.com/aro-tech/tdd-mixins-core/releases/tag/v0.6.0)
+v0.7.0: [Release notes on github] (https://github.com/aro-tech/tdd-mixins-core/releases/tag/v0.7.0)
 
-[Binary downloads] (https://oss.sonatype.org/content/groups/public/com/github/aro-tech/tdd-mixins-core/0.6.0/ "binaries")
+[Binary downloads] (https://oss.sonatype.org/content/groups/public/com/github/aro-tech/tdd-mixins-core/0.7.0/ "binaries")
 
 In Maven:
 
@@ -20,7 +20,7 @@ In Maven:
 <dependency>
   <groupId>com.github.aro-tech</groupId>
   <artifactId>tdd-mixins-core</artifactId>
-  <version>0.6.0</version>
+  <version>0.7.0</version>
 </dependency>
 
 ##Example usage 
