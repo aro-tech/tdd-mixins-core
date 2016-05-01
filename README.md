@@ -5,14 +5,16 @@ Does not require any specific test library such as JUnit or TestNG
 
 Requires Java 8 (or higher)
 
+NOte - if you plan to use JUnit 4 for your tests, try [tdd-mixins-junit4] (https://github.com/aro-tech/tdd-mixins-junit4).
+
 
 ##Latest release
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.aro-tech/tdd-mixins-core/badge.svg)](http://search.maven.org/#artifactdetails|com.github.aro-tech|tdd-mixins-core|0.7.0|jar)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.aro-tech/tdd-mixins-core/badge.svg)](http://search.maven.org/#artifactdetails|com.github.aro-tech|tdd-mixins-core|0.7.1|jar)
 
-v0.7.0: [Release notes on github] (https://github.com/aro-tech/tdd-mixins-core/releases/tag/v0.7.0)
+v0.7.1: [Release notes on github] (https://github.com/aro-tech/tdd-mixins-core/releases/tag/v0.7.1)
 
-[Binary downloads] (https://oss.sonatype.org/content/groups/public/com/github/aro-tech/tdd-mixins-core/0.7.0/ "binaries")
+[Binary downloads] (https://oss.sonatype.org/content/groups/public/com/github/aro-tech/tdd-mixins-core/0.7.1/ "binaries")
 
 In Maven:
 
@@ -20,7 +22,7 @@ In Maven:
 <dependency>
   <groupId>com.github.aro-tech</groupId>
   <artifactId>tdd-mixins-core</artifactId>
-  <version>0.7.0</version>
+  <version>0.7.1</version>
 </dependency>
 
 ##Example usage 
