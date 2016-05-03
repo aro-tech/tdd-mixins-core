@@ -9,3 +9,5 @@ buildNumber.properties
 .mvn/timing.properties
 build.xml
 settings.xml
+upgrade1.sh
+upgrade2.sh
