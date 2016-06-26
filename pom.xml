@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.aro-tech</groupId>
 	<artifactId>tdd-mixins-core</artifactId>
-	<version>0.7.6</version>
+	<version>0.8.0</version>
 	<packaging>jar</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>Java-8 mixins for convenient use of popular testing libraries in test fixtures.</description>
@@ -54,7 +54,7 @@
 		<dependency>
 			<groupId>com.github.aro-tech</groupId>
 			<artifactId>extended-mockito</artifactId>
-			<version>2.0.62-beta.1</version>
+			<version>2.0.71-beta.2</version>
 		</dependency>
 	</dependencies>
 
