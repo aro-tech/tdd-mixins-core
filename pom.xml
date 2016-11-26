@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.aro-tech</groupId>
 	<artifactId>tdd-mixins-core</artifactId>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<packaging>jar</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>Java-8 mixins for convenient use of popular testing libraries in test fixtures.</description>
@@ -49,7 +49,7 @@
 		<dependency>
 			<groupId>org.assertj</groupId>
 			<artifactId>assertj-core</artifactId>
-			<version>3.5.2</version>
+			<version>3.6.0</version>
 		</dependency>
 		<dependency>
 			<groupId>com.github.aro-tech</groupId>

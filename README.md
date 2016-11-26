@@ -10,11 +10,11 @@ NOte - if you plan to use JUnit 4 for your tests, try [tdd-mixins-junit4] (https
 
 ##Latest release
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.aro-tech/tdd-mixins-core/badge.svg)](http://search.maven.org/#artifactdetails|com.github.aro-tech|tdd-mixins-core|1.0.3|jar)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.aro-tech/tdd-mixins-core/badge.svg)](http://search.maven.org/#artifactdetails|com.github.aro-tech|tdd-mixins-core|1.0.4|jar)
 
-v1.0.3: [Release notes on github] (https://github.com/aro-tech/tdd-mixins-core/releases/tag/v1.0.3)
+v1.0.4: [Release notes on github] (https://github.com/aro-tech/tdd-mixins-core/releases/tag/v1.0.4)
 
-[Binary downloads] (https://oss.sonatype.org/content/groups/public/com/github/aro-tech/tdd-mixins-core/1.0.3/ "binaries")
+[Binary downloads] (https://oss.sonatype.org/content/groups/public/com/github/aro-tech/tdd-mixins-core/1.0.4/ "binaries")
 
 In Maven:
 
@@ -22,7 +22,7 @@ In Maven:
 <dependency>
   <groupId>com.github.aro-tech</groupId>
   <artifactId>tdd-mixins-core</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <scope>test</scope>
 </dependency>
 
