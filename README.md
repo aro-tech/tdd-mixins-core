@@ -25,6 +25,7 @@ In Maven:
   <version>1.0.5</version>
   <scope>test</scope>
 </dependency>
+```
 
 ## Example usage 
 ```
