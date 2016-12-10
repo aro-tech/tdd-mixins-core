@@ -8,7 +8,7 @@ Requires Java 8 (or higher)
 NOte - if you plan to use JUnit 4 for your tests, try [tdd-mixins-junit4] (https://github.com/aro-tech/tdd-mixins-junit4).
 
 
-##Latest release
+## Latest release
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.aro-tech/tdd-mixins-core/badge.svg)](http://search.maven.org/#artifactdetails|com.github.aro-tech|tdd-mixins-core|1.0.5|jar)
 
@@ -26,7 +26,7 @@ In Maven:
   <scope>test</scope>
 </dependency>
 
-##Example usage 
+## Example usage 
 ```
 	public class EmployeeTest implements ExtendedMockito, AssertJ { 
 	...
@@ -41,5 +41,5 @@ In Maven:
 ```
 		
  
-##Blog
+## Blog
 [![The Green Bar](https://img.shields.io/badge/My_Blog:-The_Green_Bar-brightgreen.svg)](https://thegreenbar.wordpress.com/)
